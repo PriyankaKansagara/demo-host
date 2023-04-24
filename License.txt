@@ -1,0 +1,21 @@
+﻿Mapple is a one page responsive portfolio theme. It has a fully responsive structure built with Bootstrap 3 and it is retina ready, so it looks stunning on all types of screens and devices. Its just as easy to customize to fit your needs, replace images and texts.
+
+color palette are used is
+
+#edbf43
+#25bdb0
+#56d7b4
+#1f3440
+
+Mapple is royalty free for use in both personal and commercial projects
+
+Rights
+
+You are permitted to use the resources for any number of personal and commercial projects.
+You may modify the resources according to your requirements and include them into works.
+
+No attribution or link back to this site is required.
+
+
+https://www.youtube.com/watch?v=DJC_7ixrkdo
+https://www.youtube.com/watch?v=SAwxUq0kiZY
